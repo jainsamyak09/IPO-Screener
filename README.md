@@ -48,4 +48,10 @@ Estimated Listing Gain : 72.49%
 
 ##Disclaimer
 
-GMP (Grey Market Premium) is unofficial market information and should not be considered a guaranteed prediction of listing price or investment returns.
+GMP (Grey Market Premium) is unofficial market information.
+
+The estimated listing price and listing gain calculated by this program are not guaranteed predictions of actual listing prices or investment returns.
+
+This project is intended for educational and programming purposes only and should not be considered financial advice.
+
+Author

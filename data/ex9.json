@@ -1,0 +1,12 @@
+{
+    "ipo": {
+        "company": {
+            "name": "ABC Limited",
+            "sector": "Technology"
+        },
+        "issue": {
+            "price": 450,
+            "gmp": 32
+        }
+    }
+}

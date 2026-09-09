@@ -1,0 +1,24 @@
+{
+    "ipos": [
+        {
+            "name": "Company A",
+            "type": "Mainboard",
+            "gmp": 15
+        },
+        {
+            "name": "Company B",
+            "type": "SME",
+            "gmp": 25
+        },
+        {
+            "name": "Company C",
+            "type": "Mainboard",
+            "gmp": 7
+        },
+        {
+            "name": "Company D",
+            "type": "Mainboard",
+            "gmp": 20
+        }
+    ]
+}

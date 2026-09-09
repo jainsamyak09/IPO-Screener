@@ -1,0 +1,19 @@
+{
+    "ipos": [
+        {
+            "name": "Company A",
+            "price": 450,
+            "gmp": 15
+        },
+        {
+            "name": "Company B",
+            "price": 300,
+            "gmp": 8
+        },
+        {
+            "name": "Company C",
+            "price": 550,
+            "gmp": 22
+        }
+    ]
+}

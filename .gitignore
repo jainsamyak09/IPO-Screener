@@ -1,0 +1,17 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# libcurl local installation
+src/curl/
+src/libcurl-x64.dll
